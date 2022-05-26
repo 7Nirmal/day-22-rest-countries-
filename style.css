@@ -1,0 +1,16 @@
+.card-header{
+    color:rgb(255, 255, 255);
+    font-size: 30px;
+    text-align: center;
+    background:rgb(0, 0, 0);
+    margin-top: 10px;
+    
+}
+.card-body{
+    color:rgb(11, 11, 11);
+        text-align: center;
+        padding-bottom: 20px;
+        padding-top: 20px;
+        background: wheat;
+        font-family: 'Roboto', sans-serif;
+}
